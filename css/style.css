@@ -5,7 +5,8 @@
         }
         
         body {
-            background-image: url("file:///Users/alenahawkins/Downloads/court-background%20(1).png");
+            background-image: url("https://image.freepik.com/free-photo/basketball-court-with-wooden-floor-lights-reflectors-tribune_9083-3554.jpg");
+            background-size: cover;
         }
         
         .container {
